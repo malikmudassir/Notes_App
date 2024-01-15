@@ -1,0 +1,76 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# React
+build/
+dist/
+*.env
+.DS_Store
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Dependency directories
+.jenkins/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Compiled files
+*.pnp.js
+*.pnp.js.map
+
+# Local development files
+/.idea
+/.vscode
+
+# Jest
+/coverage/
+
+# Next.js
+/.next/
+/out/
+
+# Serverless
+/.serverless/
+
+# Storybook
+/storybook-static/
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.AppleDouble
+.AppleDesktop
+.apdisk
+
+# Linux
+lost+found/
+node_modules
+.npm
+.DS_Store
